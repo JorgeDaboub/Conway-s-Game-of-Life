@@ -1,0 +1,7 @@
+For this lab I used a class to simulate conway's game of life. In the class i have a 2d bool array that serves as the board and if the cell is live has as true value and if it is dead a flase value. The class can display the board, using for loops nad just chekcing the array. It can also move to the next generation of the game. It can also enter into a play loop that iterates between next and display perpetually to "play the game of life"
+
+The program also allows for you to enter both a manual board into the game or import a configuration from a file. The file is read in and the game is played. There is also a third option i added that if a third argument is inputed then the program will run with no delays, just in case you wish to see an iteration much faster. 
+
+For the scenes that I made i looked up and based some ideas and some i directy copied from the wikipedia page of the game.
+
+Internaltly the file as mentioned uses the functions to set the values on the array, it updates them and then to display the chnages the same function from the class does it.
