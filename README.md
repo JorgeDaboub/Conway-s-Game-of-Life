@@ -18,3 +18,4 @@ Batch mode (ex: ./playfile scene1.txt)
   I have provided 5 examples of .txt files that can be passed with proper formating.
   
   ![Image description](examples/example.png)
+ 
