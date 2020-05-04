@@ -6,7 +6,7 @@ Makefile provided for easy compilation.
 After running the program two options are available.
 
 Interactive mode options:
-  a : ask for coordinates where to add a new live cell (no action needed if cell is already alive).
+	a : ask for coordinates where to add a new live cell (no action needed if cell is already alive).
   r : ask for coordinates where a cell should be removed (no action needed if cell is already dead).
   n : advance the simulation to the next iteration by applying the rules of the game.
   q : quit the program.
